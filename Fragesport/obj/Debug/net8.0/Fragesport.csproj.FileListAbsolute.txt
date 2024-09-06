@@ -1,0 +1,14 @@
+C:\Users\mostafa.nouri\Documents\Programering1\Frågesport\Fragesport\Fragesport\bin\Debug\net8.0\Fragesport.exe
+C:\Users\mostafa.nouri\Documents\Programering1\Frågesport\Fragesport\Fragesport\bin\Debug\net8.0\Fragesport.deps.json
+C:\Users\mostafa.nouri\Documents\Programering1\Frågesport\Fragesport\Fragesport\bin\Debug\net8.0\Fragesport.runtimeconfig.json
+C:\Users\mostafa.nouri\Documents\Programering1\Frågesport\Fragesport\Fragesport\bin\Debug\net8.0\Fragesport.dll
+C:\Users\mostafa.nouri\Documents\Programering1\Frågesport\Fragesport\Fragesport\bin\Debug\net8.0\Fragesport.pdb
+C:\Users\mostafa.nouri\Documents\Programering1\Frågesport\Fragesport\Fragesport\obj\Debug\net8.0\Fragesport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mostafa.nouri\Documents\Programering1\Frågesport\Fragesport\Fragesport\obj\Debug\net8.0\Fragesport.AssemblyInfoInputs.cache
+C:\Users\mostafa.nouri\Documents\Programering1\Frågesport\Fragesport\Fragesport\obj\Debug\net8.0\Fragesport.AssemblyInfo.cs
+C:\Users\mostafa.nouri\Documents\Programering1\Frågesport\Fragesport\Fragesport\obj\Debug\net8.0\Fragesport.csproj.CoreCompileInputs.cache
+C:\Users\mostafa.nouri\Documents\Programering1\Frågesport\Fragesport\Fragesport\obj\Debug\net8.0\Fragesport.dll
+C:\Users\mostafa.nouri\Documents\Programering1\Frågesport\Fragesport\Fragesport\obj\Debug\net8.0\refint\Fragesport.dll
+C:\Users\mostafa.nouri\Documents\Programering1\Frågesport\Fragesport\Fragesport\obj\Debug\net8.0\Fragesport.pdb
+C:\Users\mostafa.nouri\Documents\Programering1\Frågesport\Fragesport\Fragesport\obj\Debug\net8.0\Fragesport.genruntimeconfig.cache
+C:\Users\mostafa.nouri\Documents\Programering1\Frågesport\Fragesport\Fragesport\obj\Debug\net8.0\ref\Fragesport.dll
