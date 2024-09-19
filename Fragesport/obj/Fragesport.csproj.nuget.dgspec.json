@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mostafa.nouri\\Documents\\Programering1\\Frågesport\\Fragesport\\Fragesport\\Fragesport.csproj": {}
+    "c:\\Users\\mostafa.nouri\\Documents\\Programering1\\Frågesport\\Fragesport\\Fragesport\\Fragesport.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mostafa.nouri\\Documents\\Programering1\\Frågesport\\Fragesport\\Fragesport\\Fragesport.csproj": {
+    "c:\\Users\\mostafa.nouri\\Documents\\Programering1\\Frågesport\\Fragesport\\Fragesport\\Fragesport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mostafa.nouri\\Documents\\Programering1\\Frågesport\\Fragesport\\Fragesport\\Fragesport.csproj",
+        "projectUniqueName": "c:\\Users\\mostafa.nouri\\Documents\\Programering1\\Frågesport\\Fragesport\\Fragesport\\Fragesport.csproj",
         "projectName": "Fragesport",
-        "projectPath": "C:\\Users\\mostafa.nouri\\Documents\\Programering1\\Frågesport\\Fragesport\\Fragesport\\Fragesport.csproj",
+        "projectPath": "c:\\Users\\mostafa.nouri\\Documents\\Programering1\\Frågesport\\Fragesport\\Fragesport\\Fragesport.csproj",
         "packagesPath": "C:\\Users\\mostafa.nouri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mostafa.nouri\\Documents\\Programering1\\Frågesport\\Fragesport\\Fragesport\\obj\\",
+        "outputPath": "c:\\Users\\mostafa.nouri\\Documents\\Programering1\\Frågesport\\Fragesport\\Fragesport\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
