@@ -1,3 +1,4 @@
+﻿<<<<<<< HEAD
 ﻿Console.WriteLine("Welcome to the best gameshow ever you will awenser a few simple questions if you get one wrong you will be tourcherd;)");
 
 Console.Clear();
@@ -6,6 +7,17 @@ while (name.Length < 3)
 {
     Console.WriteLine("Write your name: ");
 
+=======
+﻿Hand();
+Console.WriteLine("Welcome to the best gameshow ever you will awenser a few simple questions if you get one wrong you will be tourcherd;)");
+
+Console.Clear();
+String name = "";
+while (name.Length < 3)
+{
+    Console.WriteLine("Write your name: ");
+
+>>>>>>> 49eb5eb5a1f19e97770618de7039bd6844ccc2a6
     name = Console.ReadLine();
 
 }
@@ -78,7 +90,6 @@ else
 Thread.Sleep(2000);
 
 Console.Clear();
-
 
 Console.WriteLine("How is the fattest guy in the whole world.\n a) Kevin    b)Calin   c)Mostafa    ");
 string Svar3 = Console.ReadLine().ToLower();
